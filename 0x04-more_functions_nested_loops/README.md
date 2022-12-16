@@ -8,3 +8,18 @@ Returns 1 if c is a digit,Returns 0 otherwise
 
 3-print_numbers.c Write a function that prints the numbers, from 0 to 9, followed by a new line.
 Prototype: void print_numbers(void); Prototype: You can only use _putchar twice in your code
+
+5-more_numbers.c Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line
+Prototype: void more_numbers(void); You can only use _putchar three times in your code
+
+6-print_line.c Write a function that draws a straight line in the terminal. Prototype: void print_line(int n);
+You can only use _putchar function to print, Where n is the number of times the character _ should be printed
+The line should end with a \n , If n is 0 or less, the function should only print \n
+
+7-print_diagonal.c7-print_diagonal.c Write a function that draws a diagonal line on the terminal.
+Prototype: void print_diagonal(int n);
+
+8-print_square.c Write a function that prints a square, followed by a new line.
+
+9-fizz_buzz.c Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+Each number or word should be separated by a space, You are allowed to use the standard library
